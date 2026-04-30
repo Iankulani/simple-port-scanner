@@ -13,3 +13,6 @@ cd simple-port-scanner
 ```bash
 python simple-port-scanner.py
 ```
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/simple-port-scanner&type=Date)](https://star-history.com/#Iankulani/simple-port-scanner&Date)
